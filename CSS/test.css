@@ -1,0 +1,12 @@
+body{
+    background-color: #E2DDE5;
+}
+h1{
+    font-size: 30px; color: #B352DD;
+}
+h2{
+    font-size: 20px; color: #D48EF3;
+} 
+.oblique{ 
+    font-style: oblique;
+}
