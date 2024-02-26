@@ -52,3 +52,9 @@ p.gris{
     font-style: italic;
     margin: 0;
 }
+main li { 
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+}
